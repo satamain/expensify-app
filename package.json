@@ -2,7 +2,7 @@
   "name": "expensify",
   "version": "1.0.0",
   "main": "index.js",
-  "author": "Andrew Mead",
+  "author": "Andrei Miranda",
   "license": "MIT",
   "scripts": {
     "build:dev": "webpack",
@@ -41,7 +41,9 @@
     "style-loader": "0.18.2",
     "uuid": "3.1.0",
     "validator": "8.0.0",
-    "webpack": "3.1.0"
+    "webpack": "3.1.0",
+    "install": "^0.12.2",
+    "npm": "^6.6.0"
   },
   "devDependencies": {
     "cross-env": "^5.2.0",
